@@ -1,5 +1,5 @@
 VERSION="0.0.0"
-
+#test
 class credate < Formula
   desc "Improved version of wc"
   homepage "https://github.com/t4kuya/credate"
