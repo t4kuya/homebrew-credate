@@ -6,7 +6,7 @@ class Credate < Formula
   url "https://github.com/t4kuya/credate/releases/download/#{VERSION}/credate-#{VERSION}_darwin_amd64.tar.gz"
   version VERSION
   
-  sha256 "9222d4ca6577f7d006ab182cc08b627cde4806b4db655e89d4c066f3c9a7eb91"
+  sha256 "627124bf3f3d33ad9cdb17147bdfca3fb22da694298851d2262e636e63f1527b"
 
   def install
     bin.install "credate"
