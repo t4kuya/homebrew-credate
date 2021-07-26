@@ -1,4 +1,4 @@
-VERSION="0.0.0"
+VERSION="1.0.0"
 
 class Credate < Formula
   desc "Improved version of wc"
